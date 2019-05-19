@@ -53,7 +53,7 @@ Customizations are generally easily reversible and do not delete files or otherw
 In some cases it may be necessary to download and install a web browser or media player that works better for you. In other cases it may be necessary to obtain and install additional software, including browser-based tools (sometimes called "*add-ons*" or "*extensions*"), or hardware devices. Some of these steps, such as installing a new web browser or browser-based tools, do not require technical expertise or particular skills. However, finding the optimal setup for you will greatly improve your efficiency and user experience.
 
 
-**Note:** Several public institutions such as libraries and schools, organizations such as those for people with disabilities or older people, and [assistive technology](#defs-ats) vendors, provide computer training courses.
+**Note:** Several public institutions such as libraries and schools, organizations such as those for people with disabilities or older people, and [assistive technology](#defs) vendors, provide computer training courses.
 
 
 ## Difficulty Seeing and Reading Websites? {#seeing}
@@ -72,7 +72,7 @@ You can also change the default display settings in the operating system of your
 
 #### Using Additional Tools: {#text-tools}
 
-There are [screen magnifiers](#defs-screenmagnifier), some of which are built directly into the operating system of your computer. These software tools enlarge the text and images, and can sometimes be set to read the text and the menus out loud. Vendors of such software usually provide detailed documentation on customization options and may sometimes provide training and support directly or through third-parties.
+There are [screen magnifiers](#defs), some of which are built directly into the operating system of your computer. These software tools enlarge the text and images, and can sometimes be set to read the text and the menus out loud. Vendors of such software usually provide detailed documentation on customization options and may sometimes provide training and support directly or through third-parties.
 
 ### Changing Colors and Fonts {#schemes}
 
@@ -86,7 +86,7 @@ You can change the default color and font schemes in the operating system of you
 
 ### Listening Rather than Reading {#tts}
 
-There are several tools that will read out loud the text on websites for you, some of which may already be installed on your computer. Talking browsers (sometimes also called "*voice browsers*") are web browsers that read aloud the text on websites. [Screen readers](#defs-screenreader) and some [screen magnifiers](#defs-screenmagnifier) are specialized software that read aloud any text on the screen, including that in your web browser. Screen readers and magnifiers often provide a variety of functions such as summarizing the contents of web pages, highlighting the text being spoken, or providing the text on a refreshable braille display. Setting up and learning how to use such tools effectively may need some initial guidance and training. Vendors of such tools usually provide detailed documentation for the customization options and may sometimes provide training and support directly or through third-parties.
+There are several tools that will read out loud the text on websites for you, some of which may already be installed on your computer. Talking browsers (sometimes also called "*voice browsers*") are web browsers that read aloud the text on websites. [Screen readers](#defs) and some [screen magnifiers](#defs) are specialized software that read aloud any text on the screen, including that in your web browser. Screen readers and magnifiers often provide a variety of functions such as summarizing the contents of web pages, highlighting the text being spoken, or providing the text on a refreshable braille display. Setting up and learning how to use such tools effectively may need some initial guidance and training. Vendors of such tools usually provide detailed documentation for the customization options and may sometimes provide training and support directly or through third-parties.
 
 *Note:* Other approaches and strategies for improving the understandability of websites are included in the section [understanding and navigating websites](#orienting) below.
 
@@ -140,7 +140,7 @@ For people who are more comfortable using the mouse (or other types of pointing 
 
 ### Using Alternate Keyboards {#keyboards}
 
-There are a number of ergonomic or specialized keyboards that can be used instead of the regular keyboard. Ergonomic keyboards have special designs and key layouts to reduce strain or to help you type more effectively. Specialized keyboards include ones with larger keys or larger key labels, ones with illuminated keys, ones that compensate for trembling and other dexterity limitations, ones with only a single switch, and many more. While ergonomic keyboards are often available at ordinary computer retailers, specialized keyboards are usually developed by [assistive technology](#defs-ats) vendors.
+There are a number of ergonomic or specialized keyboards that can be used instead of the regular keyboard. Ergonomic keyboards have special designs and key layouts to reduce strain or to help you type more effectively. Specialized keyboards include ones with larger keys or larger key labels, ones with illuminated keys, ones that compensate for trembling and other dexterity limitations, ones with only a single switch, and many more. While ergonomic keyboards are often available at ordinary computer retailers, specialized keyboards are usually developed by [assistive technology](#defs) vendors.
 
 *Note*: Laptop users can attach external keyboards in addition to the one built into the computer.
 
@@ -173,7 +173,7 @@ In addition, most computer operating systems can be set to control the mouse-poi
 
 ### Using an Alternate Mouse {#mice}
 
-Similarly to [using alternate keyboards](#keyboards), there are a number of ergonomic or specialized mice to help you be more effective and comfortable. Ergonomic mice have special designs and sizes to reduce strain. Examples include trackballs which are controlled by rotating a ball in different directions with your fingers rather than moving your hand, or joysticks which are controlled by moving a leveler in different directions. Specialized mice include ones with custom designs for specific users, ones with additional keys, ones that compensate for trembling and other dexterity limitations, and many more. While ergonomic mice are often available at ordinary computer retailers, specialized mice are usually developed by [assistive technology](#defs-ats) vendors.
+Similarly to [using alternate keyboards](#keyboards), there are a number of ergonomic or specialized mice to help you be more effective and comfortable. Ergonomic mice have special designs and sizes to reduce strain. Examples include trackballs which are controlled by rotating a ball in different directions with your fingers rather than moving your hand, or joysticks which are controlled by moving a leveler in different directions. Specialized mice include ones with custom designs for specific users, ones with additional keys, ones that compensate for trembling and other dexterity limitations, and many more. While ergonomic mice are often available at ordinary computer retailers, specialized mice are usually developed by [assistive technology](#defs) vendors.
 
 *Note*: Laptop users can attach external mice in addition to the pointing device built into the computer.
 
@@ -183,7 +183,7 @@ Understanding and navigating websites can be difficult when the structure or the
 
 ### Reading Assistance {#reading}
 
-Long text is often difficult to read and understand, especially when it is not written clearly and simply. Some users prefer to copy long texts into word-processing software (such as "*Microsoft Word*" or "*Open Office Write*"), and generate automated summaries. Other users prefer [listening rather than reading](https://www.w3.org/WAI/users/browsing#tts), including listening and reading at the same time, to help them read and understand the content. Some browser-based tools (sometimes called "*add-ons*" or "*extensions*") provide additional functionality to assist reading.
+Long text is often difficult to read and understand, especially when it is not written clearly and simply. Some users prefer to copy long texts into word-processing software (such as "*Microsoft Word*" or "*Open Office Write*"), and generate automated summaries. Other users prefer [listening rather than reading](#tts), including listening and reading at the same time, to help them read and understand the content. Some browser-based tools (sometimes called "*add-ons*" or "*extensions*") provide additional functionality to assist reading.
 
  ### Animation and Pop-Up Window Blockers {#blockers}
 
@@ -197,7 +197,8 @@ Some specialized web browsers and online services convert text into symbols and 
 
 Sign language avatars are software tools that convert text into computer-generated sign language animations. While these do not achieve the quality of professional sign language interpreters, they can be used individually and independently to convert text into sign-language. Some websites provide [sign language videos](#sign) as an alternative to audio and text.
 
-## Terminology
+## Terminology #{defs}
+
 ***assistive technology***
 :   Assistive technologies are software or equipment that people with disabilities use to improve interaction with the web, such as screen readers that read aloud web pages for people who cannot read text, screen magnifiers for people with some types of low vision, and voice recognition software and selection switches for people who cannot use a keyboard or mouse.
 
