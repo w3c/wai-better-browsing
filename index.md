@@ -199,6 +199,6 @@ Sign language avatars are software tools that convert text into computer-generat
 
 ## Terminology {#defs}
 
-***assistive technology*** {#ats}
+***assistive technology***
 :   Assistive technologies are software or equipment that people with disabilities use to improve interaction with the web, such as screen readers that read aloud web pages for people who cannot read text, screen magnifiers for people with some types of low vision, and voice recognition software and selection switches for people who cannot use a keyboard or mouse.
 
