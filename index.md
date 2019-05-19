@@ -197,8 +197,8 @@ Some specialized web browsers and online services convert text into symbols and 
 
 Sign language avatars are software tools that convert text into computer-generated sign language animations. While these do not achieve the quality of professional sign language interpreters, they can be used individually and independently to convert text into sign-language. Some websites provide [sign language videos](#sign) as an alternative to audio and text.
 
-## Terminology #{defs}
+## Terminology {#defs}
 
-***assistive technology***
+***assistive technology*** {#ats}
 :   Assistive technologies are software or equipment that people with disabilities use to improve interaction with the web, such as screen readers that read aloud web pages for people who cannot read text, screen magnifiers for people with some types of low vision, and voice recognition software and selection switches for people who cannot use a keyboard or mouse.
 
