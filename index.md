@@ -22,6 +22,7 @@ footer: > # Text in footer in HTML
 {:/}
 
 This document provides references to resources, including detailed documentation and step-by-step guides, to help you customize your particular web browser and computer setup.
+
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
