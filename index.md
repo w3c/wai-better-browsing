@@ -42,21 +42,15 @@ This document provides references to resources, including detailed documentation
 
 {% include excol.html type="all" %}
 
-{% include excol.html type="start" %}
-
 ## Introduction {#intro}
 
 Websites often have text that is difficult to read, controls that are difficult to click, or audio and videos that are difficult to hear. Fortunately your computer can be customized to improve your web browsing experience. This includes customization options in the operating system which runs your computer, in software such as web browsers and media players, and sometimes for hardware devices such as any external loud-speakers or microphones. Sometimes changing your web browser, using additional software or hardware, or otherwise customizing your computer can further improve the accessibility of the Web for you.
 
-{% include excol.html type="middle" %}
-
 *Note*:  Sometimes, websites are designed without having considered accessibility requirements and therefore they do not support customization. Consider [contacting the website owners](https://www.w3.org/WAI/teach-advocate/contact-inaccessible-websites/) if you experience accessibility problems despite the approaches outlined in this document. The document [How People with Disabilities Use the Web](http://www.w3.org/WAI/intro/people-use-web) provides further information about alternative web browsing strategies, user requirements, and accessibility solutions.
-
-{% include excol.html type="end" %}
 
 {% include excol.html type="start" %}
 
-## Optimize Your Computer Setup {#optimize}
+### Optimize Your Computer Setup {#optimize}
 
 Customizations are generally easily reversible and do not delete files or otherwise disrupt the functionality of your computer. Customization options and accessibility features are usually documented in the "*help*" menu of your software. Look for customization options in menu items such as "*options*", "*preferences*", "*settings*", and "*accessibility*". Experiment with changing some of the settings you find to see if the changes improve your web experience. Exploring and getting to know your computer are the first steps to an accessible and enjoyable web browsing experience.
 
@@ -250,7 +244,7 @@ Voice recognition can be used to dictate text or to control the entire computer.
 **Grammar and spelling checkers** can help you identify mistakes and avoid needing to re-type text in an online form. Most web browsers have spell-checking capability, and sometimes the spelling functionality can be extended using browser-based tools (sometimes called "*add-ons*" or "*extensions*"). Some users prefer to type long texts in word-processing software (such as "*Microsoft Word*" or "*Open Office Write"*) with which they are more comfortable. Then, they can copy the text into the online forms.
 
 **Word-prediction tools** highlight a selection of matching words based on the characters that you type, to avoid needing to type out the complete word each time. These tools are used in addition to word-processing tools or web browsers, and are sometimes used by typists and captioners among others.
-## Difficulty Using the Mouse? pointing}
+## Difficulty Using the Mouse? {#pointing}
 Pointing devices, such as the mouse or the touchpad on some laptop computers, can be difficult to use. There are a number of alternate devices which may be more optimal for you, and there are many settings that can be customized, including slowing down the mouse or enlarging the mouse-pointer on the screen.
 
 {% include excol.html type="end" %}
