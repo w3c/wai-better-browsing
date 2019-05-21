@@ -134,7 +134,7 @@ Make sure that any multimedia devices attached to your computer such as loud-spe
 
 {% include excol.html type="middle" %}
 
-Some keyboards have volume-increase and volume-decrease buttons that will adjust the volume level to your preference. In addition, you can adjust the volume and other sound options from the settings in the operating system of your computer. Depending on the loud-speakers and other sound devices attached to your computer, there may additional volume and sound controls to adjust. Software tools that are used to show video or listen to audio are called "media players". Sometimes they are embedded into the web browser, and they usually have additional volume controls too. Be sure to adjust these options, and to make sure that the sound output of the system or the speakers is not muted.
+Some keyboards have volume-increase and volume-decrease buttons that will adjust the volume level to your preference. In addition, you can adjust the volume and other sound options from the settings in the operating system of your computer. Depending on the loud-speakers and other sound devices attached to your computer, there may be additional volume and sound controls to adjust. Software tools that are used to show video or listen to audio are called "media players". Sometimes they are embedded into the web browser, and they usually have additional volume controls too. Be sure to adjust these options, and to make sure that the sound output of the system or the speakers is not muted.
 
 {% include excol.html type="end" %}
 
