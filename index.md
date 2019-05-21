@@ -279,14 +279,16 @@ The size and color of the mouse-pointer on the screen can be adjusted to make it
 
 ### Using Your Keyboard Instead  {#type}
 
-{% include excol.html type="middle
+{% include excol.html type="middle %}
+
 Accessible websites and software applications can be operated entirely through the keyboard. The sections [browsing the Web by keyboard](#keyboard) and [customizing keyboard functions](#keys) provide information about using your keyboard effectively and comfortably, to control your computer and navigate on the Web.
 
 In addition, most computer operating systems can be set to control the mouse-pointer and simulate mouse interaction through the keyboard. Typically this is achieved by using the arrow keys and other keyboard commands, so that a keyboard with dedicated arrow keys is necessary. Sometimes this may require replacing the existing keyboard or using an additional external keyboard on laptops. The section [Using Alternate Keyboards](#keyboards) provides information about selecting an optimal keyboard for yourself.
 
 {% include excol.html type="end" %}
 
-{% include excol.html type="start
+{% include excol.html type="start" %}
+
 ### Using an Alternate Mouse {#mice}
 
 {% include excol.html type="middle
