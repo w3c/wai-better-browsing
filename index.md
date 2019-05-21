@@ -279,7 +279,7 @@ The size and color of the mouse-pointer on the screen can be adjusted to make it
 
 ### Using Your Keyboard Instead  {#type}
 
-{% include excol.html type="middle %}
+{% include excol.html type="middle" %}
 
 Accessible websites and software applications can be operated entirely through the keyboard. The sections [browsing the Web by keyboard](#keyboard) and [customizing keyboard functions](#keys) provide information about using your keyboard effectively and comfortably, to control your computer and navigate on the Web.
 
@@ -291,7 +291,7 @@ In addition, most computer operating systems can be set to control the mouse-poi
 
 ### Using an Alternate Mouse {#mice}
 
-{% include excol.html type="middle
+{% include excol.html type="middle" %}
 Similarly to [using alternate keyboards](#keyboards), there are a number of ergonomic or specialized mice to help you be more effective and comfortable. Ergonomic mice have special designs and sizes to reduce strain. Examples include trackballs which are controlled by rotating a ball in different directions with your fingers rather than moving your hand, or joysticks which are controlled by moving a leveler in different directions. Specialized mice include ones with custom designs for specific users, ones with additional keys, ones that compensate for trembling and other dexterity limitations, and many more. While ergonomic mice are often available at ordinary computer retailers, specialized mice are usually developed by [assistive technology](#defs) vendors.
 
 *Note*: Laptop users can attach external mice in addition to the pointing device built into the computer.
@@ -316,11 +316,13 @@ Understanding and navigating websites can be difficult when the structure or the
 
 Long text is often difficult to read and understand, especially when it is not written clearly and simply. Some users prefer to copy long texts into word-processing software (such as "*Microsoft Word*" or "*Open Office Write*"), and generate automated summaries. Other users prefer [listening rather than reading](#tts), including listening and reading at the same time, to help them read and understand the content. Some browser-based tools (sometimes called "*add-ons*" or "*extensions*") provide additional functionality to assist reading.
 
-### Animation and Pop-Up Window Blockers {#blockers}
+{% include excol.html type="end" %}
 
 {% include excol.html type="start" %}
 
-{% include excol.html type="middle" %}
+{### Animation and Pop-Up Window Blockers {#blockers}
+
+% include excol.html type="middle" %}
 
 Most web browsers provide options to control potentially distracting content such as pop-up windows or animations. Some browser-based tools (sometimes called "*add-ons*" or "*extensions*") provide additional capability to identify and block animated, blinking, flickering, or otherwise distracting (sometimes hazardous) content.
 
@@ -363,3 +365,5 @@ Sign language avatars are software tools that convert text into computer-generat
 
 {% include excol.html type="end" %}
 
+
+{% include excol.html type="all" %}
