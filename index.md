@@ -322,7 +322,7 @@ Long text is often difficult to read and understand, especially when it is not w
 
 ### Animation and Pop-Up Window Blockers {#blockers}
 
-% include excol.html type="middle" %}
+{% include excol.html type="middle" %}
 
 Most web browsers provide options to control potentially distracting content such as pop-up windows or animations. Some browser-based tools (sometimes called "*add-ons*" or "*extensions*") provide additional capability to identify and block animated, blinking, flickering, or otherwise distracting (sometimes hazardous) content.
 
