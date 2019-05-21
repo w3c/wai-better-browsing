@@ -320,7 +320,7 @@ Long text is often difficult to read and understand, especially when it is not w
 
 {% include excol.html type="start" %}
 
-{### Animation and Pop-Up Window Blockers {#blockers}
+### Animation and Pop-Up Window Blockers {#blockers}
 
 % include excol.html type="middle" %}
 
