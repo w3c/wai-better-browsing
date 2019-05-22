@@ -244,10 +244,18 @@ Voice recognition can be used to dictate text or to control the entire computer.
 **Grammar and spelling checkers** can help you identify mistakes and avoid needing to re-type text in an online form. Most web browsers have spell-checking capability, and sometimes the spelling functionality can be extended using browser-based tools (sometimes called "*add-ons*" or "*extensions*"). Some users prefer to type long texts in word-processing software (such as "*Microsoft Word*" or "*Open Office Write"*) with which they are more comfortable. Then, they can copy the text into the online forms.
 
 **Word-prediction tools** highlight a selection of matching words based on the characters that you type, to avoid needing to type out the complete word each time. These tools are used in addition to word-processing tools or web browsers, and are sometimes used by typists and captioners among others.
-## Difficulty Using the Mouse? {#pointing}
-Pointing devices, such as the mouse or the touchpad on some laptop computers, can be difficult to use. There are a number of alternate devices which may be more optimal for you, and there are many settings that can be customized, including slowing down the mouse or enlarging the mouse-pointer on the screen.
 
 {% include excol.html type="end" %}
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+## Difficulty Using the Mouse? {#pointing}
+
+Pointing devices, such as the mouse or the touchpad on some laptop computers, can be difficult to use. There are a number of alternate devices which may be more optimal for you, and there are many settings that can be customized, including slowing down the mouse or enlarging the mouse-pointer on the screen.
+
+{% include excol.html type="middle" %}
 
 {% include excol.html type="start" %}
 
