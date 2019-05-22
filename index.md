@@ -3,18 +3,12 @@ title: "Better Web Browsing: Tips for Customizing Your Computer"
 permalink: /better-browsing/
 ref: /better-browsing/
 lang: en
-# translators: # Uncomment (remove #) for translations, one - name line per translator.
-# - name: Translator 1
-# - name: Translator 2
-# contributors:
-# - name: Contributor 1
-# - name: Contributor 2
 github:
   repository: wai-better-browsing
   path: index.md
 footer: > # Text in footer in HTML
   <p><strong>Status: Draft </strong>Updated 21 May 2019<br>
-  Editor: Shadi Abou-Zahra. Contributors: Andrew Arch, Jennifer Sutton, Shawn Lawton Henry, and Daniel Montalvo. Developed with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> and the <a href="http://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a>. Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a><strong> (IST 035015</strong>) funded by the <strong>European Commission under the 6th Framework</strong></p>
+  Editor: Shadi Abou-Zahra. Contributors: Andrew Arch, Jennifer Sutton, Shawn Lawton Henry, Vicki Menezes Miller, and Daniel Montalvo. Developed with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> and the <a href="http://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a>. Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a><strong> (IST 035015</strong>) funded by the <strong>European Commission under the 6th Framework</strong></p>
 ---
 
 {::nomarkdown}
@@ -24,7 +18,7 @@ footer: > # Text in footer in HTML
 This document provides tips and guidance on how you can customize your web browser and computer setup to improve your experience.
 
 {::nomarkdown}
-{% include box.html type="middle" %}
+{% include box.html type="end" %}
 {:/}
 
 {::options toc_levels="2" /}
@@ -37,7 +31,7 @@ This document provides tips and guidance on how you can customize your web brows
 {:toc}
 
 {::nomarkdown}
-{% include toc.html type="middle" %}
+{% include toc.html type="end" %}
 {:/}
 
 {% include excol.html type="all" %}
