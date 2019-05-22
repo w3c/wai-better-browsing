@@ -196,7 +196,7 @@ Keyboards can be adjusted through the settings in the operating system of your c
 :   Assigning actions, such as selecting menu items or typing in pre-defined text, to an individual key or a combination of keystrokes. For instance, most word editors and web browsers provide a shortcut on the key combination "*Ctrl s*", as an alternate method for selecting the menu item "**save**". You can define additional shortcuts for frequent actions that you perform on your computer.
 
 ***Sticky Keys***
-:   In order to facilitate single-handed typing, you can customize your computer so that functions keys, such as "**Ctrl**" or "**Alt**", do not need to be pressed at the same time as other keys to invoke key combinations. For instance, by switching on the sticky keys function, you can press "**Ctrl" then **"s" to save, rather than needing to press them at the same time.
+:   In order to facilitate single-handed typing, you can customize your computer so that functions keys, such as "**Ctrl**" or "**Alt**", do not need to be pressed at the same time as other keys to invoke key combinations. For instance, by switching on the sticky keys function, you can press "**Ctrl**" then **"s**" to save, rather than needing to press them at the same time.
 
 ***Key Filters***
 :   Filters can be set to avoid repeating the input through a key that has been pressed down for too long, a key that has been pressed down several times within a short interval, or keys that have been pressed and are immediately surrounding a key that was pressed in advance. This is useful for people with reduced dexterity or who may press keys unintentionally.
