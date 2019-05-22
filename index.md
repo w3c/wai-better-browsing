@@ -14,14 +14,14 @@ github:
   path: index.md
 footer: > # Text in footer in HTML
   <p><strong>Status: Draft </strong>Updated 21 May 2019<br>
-  Editor: Shadi Abou-Zahra. Contributors: Andrew Arch, Jennifer Sutton, Shawn Lawton Henry and Daniel Montalvo. Developed with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> and the <a href="http://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a>. Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a><strong> (IST 035015</strong>) funded by the <strong>European Commission under the 6th Framework</strong></p>
+  Editor: Shadi Abou-Zahra. Contributors: Andrew Arch, Jennifer Sutton, Shawn Lawton Henry, and Daniel Montalvo. Developed with the <a href="http://www.w3.org/WAI/EO/2008/wai-age-tf.html">WAI-AGE Task Force</a> and the <a href="http://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a>. Developed as part of the <a href="http://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a><strong> (IST 035015</strong>) funded by the <strong>European Commission under the 6th Framework</strong></p>
 ---
 
 {::nomarkdown}
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This document provides references to resources, including detailed documentation and step-by-step guides, to help you customize your particular web browser and computer setup.
+This document provides tips and guidance on how you can customize your web browser and computer setup to improve your experience.
 
 {::nomarkdown}
 {% include box.html type="middle" %}
@@ -50,11 +50,11 @@ Websites often have text that is difficult to read, controls that are difficult 
 
 {% include excol.html type="start" %}
 
-### Optimize Your Computer Setup {#optimize}
-
-Customizations are generally easily reversible and do not delete files or otherwise disrupt the functionality of your computer. Customization options and accessibility features are usually documented in the "*help*" menu of your software. Look for customization options in menu items such as "*options*", "*preferences*", "*settings*", and "*accessibility*". Experiment with changing some of the settings you find to see if the changes improve your web experience. Exploring and getting to know your computer are the first steps to an accessible and enjoyable web browsing experience.
+### Optimizing Your Computer Setup {#optimize}
 
 {% include excol.html type="middle" %}
+
+Customizations are generally easily reversible and do not delete files or otherwise disrupt the functionality of your computer. Customization options and accessibility features are usually documented in the "*help*" menu of your software. Look for customization options in menu items such as "*options*", "*preferences*", "*settings*", and "*accessibility*". Experiment with changing some of the settings you find to see if the changes improve your web experience. Exploring and getting to know your computer are the first steps to an accessible and enjoyable web browsing experience.
 
 In some cases it may be necessary to download and install a web browser or media player that works better for you. In other cases it may be necessary to obtain and install additional software, including browser-based tools (sometimes called "*add-ons*" or "*extensions*"), or hardware devices. Some of these steps, such as installing a new web browser or browser-based tools, do not require technical expertise or particular skills. However, finding the optimal setup for you will greatly improve your efficiency and user experience.
 
@@ -360,6 +360,5 @@ Sign language avatars are software tools that convert text into computer-generat
 : @@@
 
 {% include excol.html type="end" %}
-
 
 {% include excol.html type="all" %}
