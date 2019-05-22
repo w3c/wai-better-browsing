@@ -255,6 +255,8 @@
   - name: Before and After Demo (BAD)
     url: "https://www.w3.org/WAI/demos/bad/"
     different: true
+  - name: Browsing: Customizing Your Computer
+    url: "/better-browsing/"
   - name: Contacting Inaccessible Websites
     url: "/teach-advocate/contact-inaccessible-websites/"
   - name: Business Case
@@ -262,8 +264,6 @@
     pages:
     - name: Bibliography
       url: "/business-case/bibliography/"
-  - name: Better Web Browsing
-    url: "/better-browsing/"
   # pages:
   #   - name: Social Factors
   #     url: "/business-case/social-factors/"
