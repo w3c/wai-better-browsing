@@ -255,7 +255,7 @@
   - name: Before and After Demo (BAD)
     url: "https://www.w3.org/WAI/demos/bad/"
     different: true
-  - name: Browsing: Customizing Your Computer
+  - name: 'Browsing: Customizing Your Computer'
     url: "/better-browsing/"
   - name: Contacting Inaccessible Websites
     url: "/teach-advocate/contact-inaccessible-websites/"
